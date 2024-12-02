@@ -2,7 +2,6 @@
 <html>
 <head>
     <title>My First Web Page</title>
-
 <!-- Hotjar Tracking Code for test123 -->
     <script>
     (function(h,o,t,j,a,r){
