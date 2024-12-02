@@ -1,7 +1,8 @@
+<!DOCTYPE html>
 <html>
 <head>
-    <title>My First Web Page</title>
-<!-- Hotjar Tracking Code for test123 -->
+    <title>My Web App</title>
+    <!-- Hotjar Tracking Code for test123 -->
     <script>
     (function(h,o,t,j,a,r){
         h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
@@ -14,8 +15,13 @@
     </script>
 </head>
 <body>
-    <h1>Hello, World!</h1>
-    <p>My blog</p>
+    <h1>Welcome to My Web App</h1>
+    <div id="login-form">
+        </div>
+    <div id="logout-button" style="display: none;">
+        </div>
+    <div id="signup-form" style="display: none;">
+        </div>
+    <script src="script.js"></script>
 </body>
 </html>
-
