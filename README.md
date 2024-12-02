@@ -16,12 +16,5 @@
 </head>
 <body>
     <h1>Welcome to My Web App</h1>
-    <div id="login-form">
-        </div>
-    <div id="logout-button" style="display: none;">
-        </div>
-    <div id="signup-form" style="display: none;">
-        </div>
-    <script src="script.js"></script>
 </body>
 </html>
